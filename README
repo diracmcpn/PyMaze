@@ -1,4 +1,4 @@
-PyMaze is a python code with the Tk GUI that generates a maze using different shapes and algorithms.
+PyMaze is a python script that generates a rectangular maze using different algorithms. Tkinter is used as GUI.
 Actually there are two versions : 
 PyMaze1 : generate a perfect maze with a random fusion of the paths
 PyMaze2 : generate a perfect maze with an exhaustive exploration
